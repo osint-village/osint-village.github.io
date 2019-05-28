@@ -1,0 +1,53 @@
+logo: # add logo name
+title: "Recon Village - H2HC."
+description: "Recon Village é um espaço aberto com palestras, oficinas, discussões, demostrações, CTF com foco no Reconhecimento e de Open Source Intelligence."
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "recon-village-h2hc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner settings
+video: cyber.mp4 # add banner video. Add your video file to the folder video
+banner-title: "Recon Village" # add banner title
+banner-desc: "Recon Village - Reconhecimento e OSINT." # add banner description
+
+
+
+
+
+# Author settings
+author-pic: uru.png # your photo
+author-name: "Recon Village Admin" # your name
+about-author: "Recon Village Admin" # about author
+email: recon.village.h2hc@gmail.com # your email
+phone: (14)-xxxxx-xxxx # your pnone number
+website: https://recon-village-h2hc.github.io # you website
+
+# Social link
+#google_url:    # add url link
+#twitter_url: "https://twitter.com/greenmind_br"
+#instagram_url: # add url link
+#pinterest_url: # add url link
+#dribbble_url:  # add url link
+#facebook_url: "https://www.facebook.com/greenmindlabs" # add url link
+
+# Disqus
+#discus_identifier: "greenmindlabs" # add your discus identifier
+
+# Newsletter
+#mailchimp: "art.us16.list-manage.com/subscribe?u=2561b502088a6691c2934151c&id=4801c11c88" # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+#  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
