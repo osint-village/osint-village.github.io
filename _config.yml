@@ -1,14 +1,14 @@
 logo: # add logo name
-title: "Recon Village - H2HC."
-description: "Recon Village é um espaço aberto com palestras, oficinas, discussões, demostrações, CTF com foco no Reconhecimento e de Open Source Intelligence."
+title: "OSINT Village - H2HC."
+description: "OSINT Village é um espaço aberto com palestras, oficinas, discussões, demostrações, CTF com foco no Reconhecimento e de Open Source Intelligence."
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "recon-village-h2hc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "osint-village.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: cyber.mp4 # add banner video. Add your video file to the folder video
-banner-title: "Recon Village" # add banner title
-banner-desc: "Recon Village - Reconhecimento e OSINT." # add banner description
+banner-title: "OSINT Village" # add banner title
+banner-desc: "OSINT Village - Reconhecimento e OSINT." # add banner description
 
 
 
@@ -16,11 +16,11 @@ banner-desc: "Recon Village - Reconhecimento e OSINT." # add banner description
 
 # Author settings
 author-pic: uru.png # your photo
-author-name: "Recon Village Admin" # your name
-about-author: "Recon Village Admin" # about author
+author-name: "OSINT Village Admin" # your name
+about-author: "OSINT Village Admin" # about author
 email: recon.village.h2hc@gmail.com # your email
 phone: (14)-xxxxx-xxxx # your pnone number
-website: https://recon-village-h2hc.github.io # you website
+website: https://osint-village.github.io # you website
 
 # Social link
 #google_url:    # add url link
