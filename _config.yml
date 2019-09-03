@@ -24,11 +24,11 @@ website: https://osintvillage.org # you website
 
 # Social link
 #google_url:    # add url link
-#twitter_url: "https://twitter.com/greenmind_br"
-#instagram_url: # add url link
+twitter_url: "https://twitter.com/OsintVillage"
+instagram_url: "https://www.instagram.com/osintvillage/"
 #pinterest_url: # add url link
 #dribbble_url:  # add url link
-#facebook_url: "https://www.facebook.com/greenmindlabs" # add url link
+facebook_url: "https://www.facebook.com/OSINT-Village-106883060692610/" # add url link
 
 # Disqus
 #discus_identifier: "greenmindlabs" # add your discus identifier
