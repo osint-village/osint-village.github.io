@@ -3,7 +3,7 @@ title: "OSINT Village - H2HC."
 description: "OSINT Village é um espaço aberto com palestras, oficinas, discussões, demostrações, CTF com foco no Reconhecimento e de Open Source Intelligence."
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "osint-village.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://osintvillage.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: cyber.mp4 # add banner video. Add your video file to the folder video
@@ -20,7 +20,7 @@ author-name: "OSINT Village Admin" # your name
 about-author: "OSINT Village Admin" # about author
 email: recon.village.h2hc@gmail.com # your email
 phone: (14)-xxxxx-xxxx # your pnone number
-website: https://osint-village.github.io # you website
+website: https://osintvillage.org # you website
 
 # Social link
 #google_url:    # add url link
