@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://osintvillage.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: cyber.mp4 # add banner video. Add your video file to the folder video
+video: "cyber.mp4" # add banner video. Add your video file to the folder video
 banner-title: "OSINT Village" # add banner title
 banner-desc: "OSINT Village - Reconhecimento e OSINT." # add banner description
 
