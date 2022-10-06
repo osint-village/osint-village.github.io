@@ -7,8 +7,8 @@ url: "https://osintvillage.org" # the base hostname & protocol for your site, e.
 
 # Banner settings
 video: "https://raw.githubusercontent.com/osint-village/osint-village.github.io/master/assets/video/cyber.mp4" # add banner video. Add your video file to the folder video
-banner-title: "OSINT Village - Edição online 2020" # add banner title
-banner-desc: "De 25 de Setembro a 02 de Outubro" # add banner description
+banner-title: "OSINT Village - Edição online 2022" # add banner title
+banner-desc: "De 22 e 23 de Outubro de 2022" # add banner description
 
 # Author settings
 author-pic: uru.png # your photo
