@@ -1,2 +1,2 @@
-# recon-village-h2hc.github.io
-Recon Village H2HC
+# osint-village-h2hc.github.io
+OSINT Village H2HC
